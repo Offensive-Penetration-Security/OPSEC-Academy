@@ -5,7 +5,12 @@
 
 ## How to report the solvet tasks!
 - Please return the solved tasks as they should, each in its own directory, thank you! 
-- - For example:
+- Place for returning: `debugbg@protonmail.com`
+
+## WARNING!
+- If someone will send a solved task out of this requirement we will not check his work!
+
+- - For example :
 `Name:` author of the tasks
 `Folder:` Task-01, Task-02, Task-03
 
