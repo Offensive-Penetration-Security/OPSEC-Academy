@@ -10,7 +10,6 @@
 - You must describe the `Vulnerability Assessment` of every task and prove the problems for every task - `PoC` and apply `CVE` if it exists!
 - You can use whatever `OS` you want, and tools for solving the problems!
 - You must describe what tools and `OS` you used!
-- Only then you will be solve the task!
 
 ## How to report the solvet tasks!
 - Please return the solved tasks as they should, each in its own directory, thank you! 
