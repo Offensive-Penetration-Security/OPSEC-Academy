@@ -27,11 +27,12 @@
 OPSEC-Academy
 |
 |
-\ `Name:` author of the tasks
+\ 
+  Name: author of the tasks
     |
     |
     \
-      `Folder:` Task-01, Task-02, Task-03
+      Folder: Task-01, Task-02, Task-03
 ```
 
 
