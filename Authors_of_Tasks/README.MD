@@ -3,15 +3,10 @@
 ## WARNING!!! 
 - Еach author has an individual approach to his tasks
 
-## IMPORTANT FOR SOLVING THE TASKS!!! 
-- You must describe the `Vulnerability Assessment` of every task and prove the problems for every task - `PoC` and apply `CVE` if it exists!
-- You can use whatever `OS` you want, and tools for solving the problems!
-- You must describe what tools and `OS` you used!
-
 ## How to report the solvet tasks!
 - Please return the solved tasks as they should, each in its own directory, thank you! 
 - You must use only `text` format to describe the problems `HTML` is allowed!
-- Where to submit your tasks: `debugbg@protonmail.com`
+- Where to submit your solved tasks: Author `email` of the tasks which you choose:`the_author_email@com`
 
 ## WARNING!
 - If someone will send a solved task out of this requirement we will not check his work!
