@@ -1,7 +1,7 @@
 ![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Docs/logo300-Academy.png)
 
 ## WARNING!!! 
-- Еach author has an individual approach to his tasks
+- Еach author has an individual approach to his tasks!!!
 
 ## How to report the solvet tasks!
 - Please return the solved tasks as they should, each in its own directory, thank you! 
