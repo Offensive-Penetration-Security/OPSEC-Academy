@@ -18,6 +18,7 @@
 - If someone will send a solved task out of this requirement we will not check his work!
 
 - - For example :
+```txt
 OPSEC-Academy
 |
 |
@@ -26,7 +27,7 @@ OPSEC-Academy
     |
     \
       `Folder:` Task-01, Task-02, Task-03
-
+```
 
 
 ***Good luck everyone*** `OPSEC`
