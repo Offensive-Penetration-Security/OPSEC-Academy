@@ -6,7 +6,7 @@
 ## WARNING!!! 
 - You must find all problems in every task yourself, from installation to the real problem!
 
-## IMPORTANT!!! 
+## IMPORTANT FOR SOLVING THE TASKS!!! 
 - You must describe the `Vulnerability Assessment` of every task and prove the problems for every task - `PoC` and apply `CVE` if it exists!
 - You can use whatever `OS` you want, and tools for solving the problems!
 - You must describe what tools and `OS` you used!
