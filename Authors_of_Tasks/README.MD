@@ -1,10 +1,7 @@
 ![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Docs/logo300-Academy.png)
 
-## RECOMMENDED: Learning and very useful materials!
-[![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Docs/PORTSWIGGER.png)](https://portswigger.net/web-security/all-materials)
-
 ## WARNING!!! 
-- You must find all problems in every task yourself, from installation to the real problem!
+- Еach author has an individual approach to his tasks
 
 ## IMPORTANT FOR SOLVING THE TASKS!!! 
 - You must describe the `Vulnerability Assessment` of every task and prove the problems for every task - `PoC` and apply `CVE` if it exists!
