@@ -1,7 +1,8 @@
 ![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Docs/logo300-Academy.png)
 
 ## WARNING!!!: 
-- You must find all problems in every task yourself without any preliminary `SOLUTIONS AND HELP`!
+- You must find all problems in every task yourself, from installation to the real problem without any preliminary `SOLUTIONS AND HELP`!
+
 
 ## How to report the solvet tasks!
 - Please return the solved tasks as they should, each in its own directory, thank you! 
