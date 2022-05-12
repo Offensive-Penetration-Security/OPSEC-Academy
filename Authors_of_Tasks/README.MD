@@ -6,7 +6,7 @@
 ## How to report the solvet tasks!
 - Please return the solved tasks as they should, each in its own directory, thank you! 
 - You must use only `text` format to describe the problems `HTML` format is allowed!
-- Where to submit your solved tasks: Author `email` of the tasks which you choose:`the_author_email@com`
+- Where to submit your solved tasks: Author `email` of the tasks which you choose:`the_author_email@author.com`
 
 ## WARNING!
 - If someone will send a solved task out of this requirement we will not check his work!
