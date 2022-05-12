@@ -6,7 +6,7 @@
 
 ## How to report the solvet tasks!
 - Please return the solved tasks as they should, each in its own directory, thank you! 
-- Place for returning: `debugbg@protonmail.com`
+- Where to submit your tasks, using only text files!: `debugbg@protonmail.com`
 
 ## WARNING!
 - If someone will send a solved task out of this requirement we will not check his work!
