@@ -2,7 +2,7 @@
 
 - - - About the program.
 
-OPSEC-Academy is open learning IT program for everyone! `Researchers`, `Administrators`, Network Administrators, `Penetration Testers, Developers, and more...
+OPSEC-Academy is open learning IT program for everyone! `Researchers`, `Administrators`, `Network Administrators`, `Penetration Testers`, `Developers`, and more...
 This program is for everyone, beginners, advanced, and masters.
 You can learn from different teachers and masters in IT Infrastructure!
 NOTE: After successfully solving the tasks which are given by some of the teachers of this program, you can receive a proposal work!
