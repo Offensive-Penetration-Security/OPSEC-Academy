@@ -16,8 +16,10 @@
 
 ## WARNING!
 - If someone will send a solved task out of this requirement we will not check his work!
+- After you finish some tasks, you can compress them into a `tar` or `zip` archive!
 
 - - For example :
+
 ```txt
 OPSEC-Academy
 |
