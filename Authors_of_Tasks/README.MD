@@ -1,1 +1,40 @@
 ![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Docs/logo300-Academy.png)
+
+![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Docs/logo300-Academy.png)
+
+## RECOMMENDED: Learning and very useful materials!
+[![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Docs/PORTSWIGGER.png)](https://portswigger.net/web-security/all-materials)
+
+## WARNING!!! 
+- You must find all problems in every task yourself, from installation to the real problem!
+
+## IMPORTANT FOR SOLVING THE TASKS!!! 
+- You must describe the `Vulnerability Assessment` of every task and prove the problems for every task - `PoC` and apply `CVE` if it exists!
+- You can use whatever `OS` you want, and tools for solving the problems!
+- You must describe what tools and `OS` you used!
+
+## How to report the solvet tasks!
+- Please return the solved tasks as they should, each in its own directory, thank you! 
+- You must use only `text` format to describe the problems `HTML` is allowed!
+- Where to submit your tasks: `debugbg@protonmail.com`
+
+## WARNING!
+- If someone will send a solved task out of this requirement we will not check his work!
+- After you finish some tasks, you can compress them into a `tar` or `zip` archive!
+
+- - For example :
+
+```txt
+OPSEC-Academy
+|
+|
+\ 
+  Name: author of the tasks
+    |
+    |
+    \
+      Tasks: Task-01, Task-02, Task-03
+```
+
+
+***Good luck everyone*** `OPSEC`
