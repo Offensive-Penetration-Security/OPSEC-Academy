@@ -1,6 +1,6 @@
 ![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Docs/logo300-Academy.png)
 
-## Learning and very useful materials!
+## RECOMMENDED: Learning and very useful materials!
 [![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Docs/PORTSWIGGER.png)](https://portswigger.net/web-security/all-materials)
 
 ## WARNING!!! 
