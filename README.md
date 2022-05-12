@@ -11,6 +11,6 @@ NOTE: After successfully solving the tasks which are given by some of the teache
 
 ## Wall of the famous students:
 
-| Author  | Number of Tasks | Score |
+| Author of the tasks | Your_name | Number of Tasks | Score |
 | ------------- | ------------- | ------------ |
-|  Your_Name   |  Your_number_of_solved_Tasks  |   Your score   |
+|  The_Author   |  Your_namre | Your_number_of_solved_Tasks  |   Your score   |
