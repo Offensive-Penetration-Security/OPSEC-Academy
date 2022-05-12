@@ -1,9 +1,9 @@
 ![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Docs/logo300-Academy.png)
 
-## WARNING!!!: 
+## WARNING!!! 
 - You must find all problems in every task yourself, from installation to the real problem without any preliminary `SOLUTIONS AND HELP`!
 
-**IMPORTANT!!!:** 
+## IMPORTANT!!! 
 - You must describe and prove the problems for every task - PoC and apply CVE if it exists!
 - You can use whatever OS you want, and tools for solving the problems!
 - You must describe what tools and OS you used!
