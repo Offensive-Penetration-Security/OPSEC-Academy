@@ -13,7 +13,7 @@
 ## How to report the solvet tasks!
 - Please return the solved tasks as they should, each in its own directory, thank you! 
 - You must use only `text` format to describe the problems `HTML` is allowed!
-- Where to submit your tasks: `debugbg@protonmail.com`
+- Where to submit your tasks: `OPSEC-Academy@protonmail.com`
 
 ## WARNING!
 - If someone will send a solved task out of this requirement I will not check his work!
