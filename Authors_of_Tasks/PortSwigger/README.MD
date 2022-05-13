@@ -2,6 +2,24 @@
 
 ![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Authors_of_Tasks/PortSwigger/Docs/PortSwigger-Web-Security-Academy.png)
 
-## Got to the Academy!
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
 
-[![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Authors_of_Tasks/PortSwigger/Docs/InZ0OCwH_400x400.png)](https://portswigger.net/web-security/all-labs)
+<h2>Center an Image</h2>
+<p>To center an image, set left and right margin to auto, and make it into a block element.</p>
+
+<img src="https://raw.githubusercontent.com/Offensive-Penetration-Security/OPSEC-Academy/main/Authors_of_Tasks/PortSwigger/Docs/InZ0OCwH_400x400.png" alt="Paris" style="width:50%;">
+
+</body>
+</html>
