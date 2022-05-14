@@ -1,4 +1,4 @@
-## [PortSwigger](https://portswigger.net/web-security/all-labs)
+## [PortSwigger](https://portswigger.net/)
 
 <p align="center">
   <br>
