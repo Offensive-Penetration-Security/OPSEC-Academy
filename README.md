@@ -10,7 +10,7 @@ NOTE: After successfully solving the tasks which are given by some of the author
 
 ## Wall of the famous students:
 
-| Author tasks | Your_name | Number of Tasks | Score |
+| Author tasks | Your_name | Number of Tasks | Progress |
 | ------------- | ------------- | ------------ | ----------- |
-|  [OPSEC](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/tree/main/Authors_of_Tasks/OPSEC) |  Your_namre | Your_numbers_of_solved_Tasks | Your score |
-|  [PortSwigger](https://portswigger.net/) |  Your_namre | Your_numbers_of_solved_Tasks | Your score |
+|  [OPSEC](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/tree/main/Authors_of_Tasks/OPSEC) | Your_namre |Your_numbers_of_solved_Tasks | Your progress |
+|  [PortSwigger](https://portswigger.net/) | Your_namre | Your_numbers_of_solved_Tasks | Your progress |
