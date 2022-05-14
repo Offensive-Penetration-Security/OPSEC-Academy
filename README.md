@@ -12,6 +12,5 @@ NOTE: After successfully solving the tasks which are given by some of the author
 
 | Author tasks | Your_name | Number of Tasks | Progress |
 | ------------- | ------------- | ------------ | ----------- |
-
 |[OPSEC](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/tree/main/Authors_of_Tasks/OPSEC) | Your_namre |Your_numbers_of_solved_Tasks | Your progress |
 |[PortSwigger](https://portswigger.net/web-security/all-labs) | Your_namre | Your_numbers_of_solved_Tasks | Your progress |
