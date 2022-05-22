@@ -6,7 +6,7 @@
 ## RECOMMENDED: Learning and very useful materials!
 [![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Docs/PORTSWIGGER.png)](https://portswigger.net/web-security/all-materials)
 
-## WARNING!!! 
+## NOTE!!! 
 - You must find all problems in every task yourself, from installation to the real problem!
 
 ## IMPORTANT FOR SOLVING THE TASKS!!! 
@@ -18,7 +18,7 @@
 - You must use only `text` format to describe the problems `HTML` is allowed!
 - Where to submit your tasks: `OPSEC-Academy@protonmail.com`
 
-## IMPORTANT!
+## YOU SHOULD KNOW!!!
 - If someone will send a solved tasks out of this requirement We will not check his work!
 - After you finish some tasks, you must compress them into a `tar` or `zip` archive!
 
