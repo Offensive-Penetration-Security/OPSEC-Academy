@@ -8,7 +8,7 @@ NOTE: After successfully solving the tasks which are given by some of the author
 
 ![](https://github.com/Offensive-Penetration-Security/OPSEC-Academy/blob/main/Docs/logo300-Academy.png)
 
-## Wall of the famous students:
+## Wall of the authors:
 
 | Author tasks | Your name | Solved Tasks | Progress |
 | ------------- | ------------- | ------------ | ----------- |
