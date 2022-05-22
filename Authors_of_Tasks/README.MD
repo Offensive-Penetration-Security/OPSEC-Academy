@@ -9,4 +9,7 @@
 ## WARNING!
 - Please do not deviate from the requirements of the authors of the tasks!
 
+## All RIGHTS RESERVED:
+- Do not distribute the materials without permission! You can only distribute this content if you explain and give a link for these materials, and who owns these materials!
+
 ***Good luck everyone*** `OPSEC`
