@@ -1,4 +1,4 @@
-# OPSEC-Academy & PortSwigger web security academy - free training
+# OPSEC - Academy & PortSwigger - web security academy: free training
 
 - - - About the program.
 
