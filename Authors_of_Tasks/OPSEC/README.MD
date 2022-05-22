@@ -18,7 +18,7 @@
 - You must use only `text` format to describe the problems `HTML` is allowed!
 - Where to submit your tasks: `OPSEC-Academy@protonmail.com`
 
-## WARNING!
+## IMPORTANT!
 - If someone will send a solved tasks out of this requirement We will not check his work!
 - After you finish some tasks, you must compress them into a `tar` or `zip` archive!
 
