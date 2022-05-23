@@ -11,7 +11,7 @@
 </a><br>
                                 
 <a href="https://github.com/nu11secur1ty/PortSwigger-Web-Security-Academy">
-   <img alt="Qries" src=""
+   <img alt="Qries" src="https://github.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/blob/main/Docs/logo300-Academy.png"
          width=150" height="150">
 </a>
 
