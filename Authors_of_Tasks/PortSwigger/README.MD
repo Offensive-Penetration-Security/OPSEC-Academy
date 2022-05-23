@@ -16,5 +16,6 @@
    <img alt="Qries" src="https://github.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/blob/main/Docs/logo300video.png"
          width=150" height="150">
 </a>
+</center>
 
                                 
