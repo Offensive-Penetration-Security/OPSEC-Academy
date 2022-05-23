@@ -11,7 +11,7 @@
                                 </a><br><br></br>
                   <venter>              
                   <br>
-                  <b> Videos and matirials from nu11secur1ty</b><br>
+                  <b> Videos and materials from nu11secur1ty</b><br>
                   
 <a href="https://github.com/nu11secur1ty/PortSwigger-Web-Security-Academy">
    <img alt="Qries" src="https://github.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/blob/main/Docs/logo300video.png"
