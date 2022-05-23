@@ -9,7 +9,7 @@
    <img alt="Qries" src="https://raw.githubusercontent.com/Offensive-Penetration-Security/OPSEC-Academy/main/Authors_of_Tasks/PortSwigger/Docs/InZ0OCwH_400x400.png"
          width=150" height="150">
                                 </a><br><br></br>
- <p algin="center">
+                  <venter>              
                   <br>
                   <b> Videos and matirials from nu11secur1ty</b><br>
                   
@@ -17,5 +17,5 @@
    <img alt="Qries" src="https://github.com/Offensive-Penetration-Security/OPSEC-Academy-free-training/blob/main/Docs/logo300video.png"
          width=150" height="150">
 </a>
-
+</center>
                                 
