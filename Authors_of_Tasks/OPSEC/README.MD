@@ -11,7 +11,7 @@
 ## NOTE!!! 
 - You must find all problems in every task yourself, from installation to the real problem!
 
-## IMPORTANT FOR SOLVING THE TASKS!!! 
+## MANDATORY and IMPORTANT FOR SOLVING THE TASKS!!! 
 - You must describe the `Vulnerability Assessment` of every task and prove the problems for every task - `PoC`  - `presenting` exploits and apply `CVE` if it exists!
 - You can use whatever `OS` you want, and [Burp Suite](https://portswigger.net/burp/releases) - Application Security Testing Software from `PortSwigger` for solving the problems!
 
