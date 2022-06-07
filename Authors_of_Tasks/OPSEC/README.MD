@@ -15,7 +15,7 @@
 - You must describe the `Vulnerability Assessment` of every task and prove the problems for every task - `PoC`  - `presenting` exploits and apply `CVE` if it exists!
 - You can use whatever `OS` you want, and [Burp Suite](https://portswigger.net/burp/releases) - Application Security Testing Software from `PortSwigger` for solving the problems!
 
-## How to report the solvet tasks!
+## How to report the solved tasks!
 - Please return the solved tasks as they should, each in its own directory, thank you! 
 - You must use only `text` format to describe the problems `HTML` is allowed!
 - Where to submit your tasks: `OPSEC-Academy@protonmail.com`
